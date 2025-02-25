@@ -1,5 +1,7 @@
 # DMall Bot
 
+Originally created with by [Unkown](https://github.com/sayonaratv)
+
 ## Description
 
 DMall Bot is a Discord bot designed to send direct messages (DMs) to all members of a selected server. The bot allows you to:
