@@ -1,6 +1,6 @@
 # DMall Bot
 
-Originally created with by [Unkown](https://github.com/sayonaratv)
+Originally created by [Unkown](https://github.com/sayonaratv)
 
 ## Description
 
