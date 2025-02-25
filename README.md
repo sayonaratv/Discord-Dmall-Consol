@@ -14,7 +14,7 @@ This program is designed for educational purposes only. When using this script o
 
 - Do not spam: Avoid sending mass direct messages to users without their consent. This can be considered spam and is against Discord's Terms of Service.
 - Respect privacy: Do not use the script to gather personal information or harass users.
-- Follow Discord's policies: Ensure that your use of the script complies with Discord's Terms of Service and Community Guidelines.
+- Follow Discord's policies: Ensure that your use of the script complies with Discord's [Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines).
 - Use responsibly: Only use the script in environments where you have explicit permission to do so.
 
 Failure to follow these guidelines could result in your account or bot being restricted or banned by Discord.
