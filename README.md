@@ -9,6 +9,9 @@ DMall Bot is a Discord bot designed to send direct messages (DMs) to all members
 4. Enter the message you want to send to all members.
 5. Display a summary of how many members received the message and how many did not.
 
+## Description
+THIS PROGRAM IS FOR EDUCATIONAL PURPOSES ONLY.
+
 ## Setup and Usage
 
 ### Prerequisites
